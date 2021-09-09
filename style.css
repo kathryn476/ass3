@@ -9,20 +9,18 @@ align-self: center;
 }
 
 #container {
-    min-height: 100%;
+    min-height: 50%;
 }
 
 #main {
     overflow: auto;
     padding-bottom: 100px;
     background-color: rgba(85, 107, 47, 0.068);
-    height: 700px;
+    height: 480px;
 }
 
 #footer {
     background-color: aliceblue;
-    position: relative
-    height: 70px;
-    margin: 10px;
-
+    position: absolute
+    height: 100px;  
 }
